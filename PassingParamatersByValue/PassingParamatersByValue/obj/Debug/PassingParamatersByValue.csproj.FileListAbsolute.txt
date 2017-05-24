@@ -1,0 +1,6 @@
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\bin\Debug\PassingParamatersByValue.exe.config
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\bin\Debug\PassingParamatersByValue.exe
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\bin\Debug\PassingParamatersByValue.pdb
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\obj\Debug\PassingParamatersByValue.csprojResolveAssemblyReference.cache
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\obj\Debug\PassingParamatersByValue.exe
+D:\C#_Journey\PassingParamatersByValue\PassingParamatersByValue\obj\Debug\PassingParamatersByValue.pdb

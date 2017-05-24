@@ -1,0 +1,6 @@
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.exe.config
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.exe
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\bin\Debug\InheritanceApplication.pdb
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.csprojResolveAssemblyReference.cache
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.exe
+D:\C#_Journey\InheritanceApplication\InheritanceApplication\obj\Debug\InheritanceApplication.pdb

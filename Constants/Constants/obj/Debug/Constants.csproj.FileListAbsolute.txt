@@ -1,0 +1,6 @@
+D:\C#_Journey\Constants\Constants\bin\Debug\Constants.exe.config
+D:\C#_Journey\Constants\Constants\bin\Debug\Constants.exe
+D:\C#_Journey\Constants\Constants\bin\Debug\Constants.pdb
+D:\C#_Journey\Constants\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+D:\C#_Journey\Constants\Constants\obj\Debug\Constants.exe
+D:\C#_Journey\Constants\Constants\obj\Debug\Constants.pdb

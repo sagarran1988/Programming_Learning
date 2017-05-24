@@ -1,0 +1,6 @@
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojResolveAssemblyReference.cache
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+D:\C#_Journey\AccessSpecifiers\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

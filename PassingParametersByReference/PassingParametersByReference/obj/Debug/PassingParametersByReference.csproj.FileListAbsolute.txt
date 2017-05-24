@@ -1,0 +1,5 @@
+D:\C#_Journey\PassingParametersByReference\PassingParametersByReference\bin\Debug\PassingParametersByReference.exe.config
+D:\C#_Journey\PassingParametersByReference\PassingParametersByReference\bin\Debug\PassingParametersByReference.exe
+D:\C#_Journey\PassingParametersByReference\PassingParametersByReference\bin\Debug\PassingParametersByReference.pdb
+D:\C#_Journey\PassingParametersByReference\PassingParametersByReference\obj\Debug\PassingParametersByReference.exe
+D:\C#_Journey\PassingParametersByReference\PassingParametersByReference\obj\Debug\PassingParametersByReference.pdb

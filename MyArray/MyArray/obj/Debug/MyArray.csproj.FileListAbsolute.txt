@@ -1,0 +1,6 @@
+D:\C#_Journey\MyArray\MyArray\bin\Debug\MyArray.exe.config
+D:\C#_Journey\MyArray\MyArray\bin\Debug\MyArray.exe
+D:\C#_Journey\MyArray\MyArray\bin\Debug\MyArray.pdb
+D:\C#_Journey\MyArray\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+D:\C#_Journey\MyArray\MyArray\obj\Debug\MyArray.exe
+D:\C#_Journey\MyArray\MyArray\obj\Debug\MyArray.pdb

@@ -1,0 +1,5 @@
+D:\C#_Journey\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.exe.config
+D:\C#_Journey\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.exe
+D:\C#_Journey\ArrayApplication\ArrayApplication\bin\Debug\ArrayApplication.pdb
+D:\C#_Journey\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.exe
+D:\C#_Journey\ArrayApplication\ArrayApplication\obj\Debug\ArrayApplication.pdb

@@ -1,0 +1,6 @@
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\DynamicPolymorphism.exe.config
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\DynamicPolymorphism.exe
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\bin\Debug\DynamicPolymorphism.pdb
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\DynamicPolymorphism.csprojResolveAssemblyReference.cache
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\DynamicPolymorphism.exe
+D:\C#_Journey\DynamicPolymorphism\DynamicPolymorphism\obj\Debug\DynamicPolymorphism.pdb

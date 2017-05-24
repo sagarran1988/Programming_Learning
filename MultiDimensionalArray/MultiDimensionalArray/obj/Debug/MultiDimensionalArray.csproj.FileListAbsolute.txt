@@ -1,0 +1,5 @@
+D:\C#_Journey\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe.config
+D:\C#_Journey\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe
+D:\C#_Journey\MultiDimensionalArray\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.pdb
+D:\C#_Journey\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe
+D:\C#_Journey\MultiDimensionalArray\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.pdb

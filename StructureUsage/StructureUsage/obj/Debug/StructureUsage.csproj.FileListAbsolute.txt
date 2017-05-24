@@ -1,0 +1,6 @@
+D:\C#_Journey\StructureUsage\StructureUsage\bin\Debug\StructureUsage.exe.config
+D:\C#_Journey\StructureUsage\StructureUsage\bin\Debug\StructureUsage.exe
+D:\C#_Journey\StructureUsage\StructureUsage\bin\Debug\StructureUsage.pdb
+D:\C#_Journey\StructureUsage\StructureUsage\obj\Debug\StructureUsage.csprojResolveAssemblyReference.cache
+D:\C#_Journey\StructureUsage\StructureUsage\obj\Debug\StructureUsage.exe
+D:\C#_Journey\StructureUsage\StructureUsage\obj\Debug\StructureUsage.pdb

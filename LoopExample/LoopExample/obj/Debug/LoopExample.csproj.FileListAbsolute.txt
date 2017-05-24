@@ -1,0 +1,6 @@
+D:\C#_Journey\LoopExample\LoopExample\obj\Debug\LoopExample.csprojResolveAssemblyReference.cache
+D:\C#_Journey\LoopExample\LoopExample\bin\Debug\LoopExample.exe.config
+D:\C#_Journey\LoopExample\LoopExample\bin\Debug\LoopExample.exe
+D:\C#_Journey\LoopExample\LoopExample\bin\Debug\LoopExample.pdb
+D:\C#_Journey\LoopExample\LoopExample\obj\Debug\LoopExample.exe
+D:\C#_Journey\LoopExample\LoopExample\obj\Debug\LoopExample.pdb
