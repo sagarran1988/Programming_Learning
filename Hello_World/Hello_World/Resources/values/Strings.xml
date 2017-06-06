@@ -2,4 +2,5 @@
 <resources>
   <string name="HelloXamarin">Hello World, I am Xamarin!</string>
   <string name="ApplicationName">helloWorld</string>
+  <string name="ButtonClick">Click Me!</string>
 </resources>

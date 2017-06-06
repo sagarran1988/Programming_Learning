@@ -13,6 +13,8 @@ namespace Hello_World
 
             // Set our view from the "main" layout resource
              SetContentView (Resource.Layout.Main);
+            Button button = FindViewById<Button>(Resource.Id.MyButton);
+            button.Click += delegate {button.Text = "Hello world I am your first App"; };
         }
     }
 }
